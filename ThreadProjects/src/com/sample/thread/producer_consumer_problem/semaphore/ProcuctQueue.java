@@ -1,6 +1,4 @@
-/*
- * Copyright (c) Advanced Driver Information Technology
- */
+
 
 package com.sample.thread.producer_consumer_problem.semaphore;
 
